@@ -5,6 +5,8 @@ Our task is to help CredX identify the right customers using predictive models. 
 ## Understanding the data
 There are two data sets in this project: demographic and credit bureau data.  
 
-####### Demographic/application data: This is obtained from the information provided by the applicants at the time of credit card application. It contains customer-level information on age, gender, income, marital status, etc.
+### Demographic/application data: 
+This is obtained from the information provided by the applicants at the time of credit card application. It contains customer-level information on age, gender, income, marital status, etc.
 
-####### Credit bureau: This is taken from the credit bureau and contains variables such as 'number of times 30 DPD or worse in last 3/6/12 months', 'outstanding balance', 'number of trades', etc.
+### Credit bureau: 
+This is taken from the credit bureau and contains variables such as 'number of times 30 DPD or worse in last 3/6/12 months', 'outstanding balance', 'number of trades', etc.
